@@ -1,0 +1,16 @@
+﻿Notice d'utilisation
+
+
+
+1- Tout d'abord il faut obtenir le fichier compressé en .tar.gz .
+2- Puis extraire le fichier où on le souhaite.
+3-Ouvrir le terminal, puis se rendre dans le fichier qu'on vient de décompressé.
+4-Ensuite, une fois dedans taper juste “make”
+5-Le jeu va commencer à compiler !
+6-Puis pour lancer le jeu taper la commande “./yam” 
+7-Le jeu est pret à jouer !
+
+Note: Il faut taper seulement ce qui est compris dans les “ ” .
+
+
+Bonne Chance !
